@@ -24,9 +24,7 @@ Earthworms were exposed to polyethylene microplastics with four particle sizes a
 
 Earthworm gut microbial communities were characterized by 16S rRNA gene amplicon sequencing targeting the V3–V4 region.
 
-The raw sequencing data have been submitted to the NCBI Sequence Read Archive (SRA).
-
-BioProject accession: PRJNA1530731
+The raw sequencing data have been deposited in the NCBI Sequence Read Archive (SRA) under BioProject accession number [PRJNA1530731](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1530731).
 
 ## Authors
 
@@ -36,4 +34,4 @@ College of Wildlife and Protected Area, Northeast Forestry University, Harbin 15
 
 ## Data availability
 
-The supporting data are available in this GitHub repository. The raw 16S rRNA gene amplicon sequencing data have been submitted to the NCBI Sequence Read Archive (SRA) under BioProject accession number [PRJNA1530731](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1530731).
+The supporting data are available in this GitHub repository. The raw 16S rRNA gene amplicon sequencing data have been deposited in the NCBI Sequence Read Archive (SRA) under BioProject accession number [PRJNA1530731](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1530731).
